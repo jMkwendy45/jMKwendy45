@@ -2,7 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Duru Oluchi</h1>
-<h3 align="center">A passionate  problem solver from Nigeria</h3>
+<h3 align="center">A passionate  problem solver from Nigeria<,I Solve Wicked Problems/h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmkwendy45&label=Profile%20views&color=0e75b6&style=flat" alt="jmkwendy45" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmkwendy45" alt="jmkwendy45" /></a> </p>
