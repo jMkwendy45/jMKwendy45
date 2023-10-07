@@ -1,5 +1,6 @@
-<p><img align="left" src="https://![image](https://github.com/jMkwendy45/jMKwendy45/assets/53004699/fcdb0750-ce7c-427e-aeff-4981cfbead49)
-t" alt="jmkwendy45" /></p>
+<p><img align="left" src="![Uploading image.png…]()
+"
+ alt="jmkwendy45" /></p>
 
 <h1 align="center">Hi 👋, I'm Duru Oluchi</h1>
 <h3 align="center">A passionate  problem solver from Nigeria<,I Solve Wicked Problems</h3>
