@@ -1,8 +1,8 @@
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<p><img align="left" src="https://![image](https://github.com/jMkwendy45/jMKwendy45/assets/53004699/fcdb0750-ce7c-427e-aeff-4981cfbead49)
+t" alt="jmkwendy45" /></p>
 
 <h1 align="center">Hi 👋, I'm Duru Oluchi</h1>
-<h3 align="center">A passionate  problem solver from Nigeria<,I Solve Wicked Problems/h3>
+<h3 align="center">A passionate  problem solver from Nigeria<,I Solve Wicked Problems</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmkwendy45&label=Profile%20views&color=0e75b6&style=flat" alt="jmkwendy45" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmkwendy45" alt="jmkwendy45" /></a> </p>
@@ -12,7 +12,6 @@
 - 🔭 I’m currently working on [GO2GEDA](https://github.com/jMkwendy45/GO2GEDA-FRONTEND)
 
 - 🌱 I’m a  **SOFTWARE ENGINEER**
-
 
 - 💬 Ask me about **JAVA,SPRINGBOOT,REACT,MYSQL,JAVASCRIPT,PYTHON,DJANGO,TYPESCRIPT,AND ALGORTIHMS**
 
