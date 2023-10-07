@@ -11,7 +11,8 @@
 
 - 🔭 I’m currently working on [GO2GEDA](https://github.com/jMkwendy45/GO2GEDA-FRONTEND)
 
-- 🌱 I’m currently learning **SOFTWARE ENGINEERING**
+- 🌱 I’m a  **SOFTWARE ENGINEER**
+
 
 - 💬 Ask me about **JAVA,SPRINGBOOT,REACT,MYSQL,JAVASCRIPT,PYTHON,DJANGO,TYPESCRIPT,AND ALGORTIHMS**
 
