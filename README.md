@@ -1,4 +1,4 @@
-[![Image](https://github.com/jMkwendy45/jMKwendy45/assets/53004699/17d385b1-37e8-49b0-bb39-9681b7d3c1cf)]
+![Image](https://github.com/jMkwendy45/jMKwendy45/assets/53004699/17d385b1-37e8-49b0-bb39-9681b7d3c1cf)
 
 <h1 align="center">Hi 👋, I'm Duru Oluchi</h1>
 <h3 align="center">A passionate  problem solver from Nigeria,I Solve Wicked Problems</h3>
