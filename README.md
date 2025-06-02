@@ -1,4 +1,4 @@
-[![Image](https://github.com/jMkwendy45/jMKwendy45/assets/53004699/17d385b1-37e8-49b0-bb39-9681b7d3c1cf)
+[![Image](https://github.com/jMkwendy45/jMKwendy45/assets/53004699/17d385b1-37e8-49b0-bb39-9681b7d3c1cf)]
 
 <h1 align="center">Hi 👋, I'm Duru Oluchi</h1>
 <h3 align="center">A passionate  problem solver from Nigeria,I Solve Wicked Problems</h3>
@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmkwendy45&label=Profile%20views&color=0e75b6&style=flat" alt="jmkwendy45" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmkwendy45" alt="jmkwendy45" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🔭 I’m currently working on  a project called [GO2GEDA](https://github.com/jMkwendy45/GO2GEDA-FRONTEND \) a  ride sharing app
+- 🔭 I’m currently exploring machine learnaing and AI 
 
 - 🌱 I’m a  **SOFTWARE ENGINEER**
       
